@@ -6,37 +6,24 @@
       {
         "id": "583d51b1a7840ba2",
         "type": "tabs",
+        "dimension": 58.591885441527445,
         "children": [
           {
-            "id": "e04c0b4cad209256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0000_metadata/Repository_Guidelines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Repository_Guidelines"
-            }
-          },
-          {
-            "id": "afa3859980813bec",
+            "id": "21084646b97c5a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0000_metadata/Set of indicators.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Set of indicators"
             }
           },
           {
-            "id": "b3c8f56be2f1df4f",
+            "id": "28c728f7b64078b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,31 +37,70 @@
             }
           },
           {
-            "id": "21084646b97c5a28",
+            "id": "f6905873c22c9914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0000_metadata/Dashboard/Dashboard.md",
+                "file": "0000_metadata/Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "Database"
             }
           },
           {
-            "id": "46bac1ff6419221c",
+            "id": "448cbcb53aa7dfb2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "0000_metadata/Database.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database"
+            }
+          },
+          {
+            "id": "01b34c12a19fe153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0000_metadata/templates/metadata_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "metadata_template"
             }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "b224cb37ce69ebcc",
+        "type": "tabs",
+        "dimension": 41.408114558472555,
+        "children": [
+          {
+            "id": "65f08b6598a35e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0211_Vietnam/STUDIES/2025_Vietnam_Academic_WBE in Hanoi_ENG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025_Vietnam_Academic_WBE in Hanoi_ENG"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b00f9bfada81e00f",
@@ -147,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0000_metadata/templates/metadata_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for metadata_template"
             }
           },
           {
@@ -230,17 +257,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "46bac1ff6419221c",
+  "active": "01b34c12a19fe153",
   "lastOpenFiles": [
-    "Untitled.base",
-    "0000_metadata/Dashboard/Dashboard.md",
-    "0000_metadata/Dashboard",
-    "Untitled.md",
+    "0000_metadata/Repository_Guidelines.md",
+    "0000_metadata/templates/metadata_template.md",
     "0000_metadata/Database.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "0205_Malaysia/Untitled.md",
     "0000_metadata/Set of indicators.md",
-    "0000_metadata/Repository_Guidelines.md"
+    "Untitled.base",
+    "README.md",
+    "0000_metadata/templates",
+    "0000_metadata/Dashboard/Dashboard.md",
+    "0200_SoutheastAsia/ADMIN/2025_SEA_ASEAN-NARCO_ADM report 2023_ENG.pdf",
+    "0200_SoutheastAsia/ADMIN/2024_SEA_ASEAN-NARCO_ADM report 2022_ENG.pdf",
+    "0200_SoutheastAsia/ADMIN/2023_SEA_ASEAN-NARCO_ADM report 2021_ENG.pdf",
+    "0200_SoutheastAsia/ADMIN/2022_SEA_ASEAN-NARCO_ADM report 2020_ENG.pdf",
+    "0200_SoutheastAsia/ADMIN/2021_SEA_ASEAN-NARCO_ADM report 2019_ENG.pdf",
+    "0200_SoutheastAsia/ADMIN/2020_SEA_ASEAN-NARCO_ADM report 2018_ENG.pdf",
+    "0200_SoutheastAsia/ADMIN/2019_SEA_ASEAN-NARCO_ADM report 2017_ENG.pdf",
+    "0200_SoutheastAsia/ADMIN/2018_SEA_ASEAN-NARCO_ADM report 2016_ENG.pdf",
+    "0211_Vietnam/STUDIES/2025_Vietnam_Academic_WBE in Hanoi_ENG.md"
   ]
 }
